@@ -1,0 +1,46 @@
+ 
+body{
+    background-color: lightslategrey;
+}
+h2 {
+
+    background-color: blue;
+    display: inline-block;
+    margin: 0 40%;
+    padding: 10px 20px;
+    margin-bottom: 100px;
+
+}
+
+.title {
+    margin-left: 50px;
+    width: 800px;
+    background-color: rgb(229, 229, 243);
+    color: black;
+    border:solid 1px black
+    
+}
+
+.container {
+   
+    margin-left: 50px;
+    width: 800px;
+    background-color: rgb(217, 212, 74);
+    padding: 20px;
+    border: 2px solid black;
+}
+
+input {
+    width: 180px;
+    height: 18px;
+}
+
+p {
+
+    width: 400px;
+    margin: 20px 0;
+    padding: 6px;
+    border-radius: 10px;
+    background-color: rgb(105, 134, 223);
+    color: white;
+}
