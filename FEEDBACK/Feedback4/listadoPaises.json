@@ -1,0 +1,38 @@
+{
+    "listadoPaises": {
+        "pais":[{
+            "nombre": "España",
+            "capital": "Madrid",
+            "textoCapital": "La mejor capital del mundo",
+            "ciudades": [
+                "Madrid, Barcelona, Valencia, Sevilla, Zaragoza, Málaga, Murcia" 
+            ]
+        },
+        {
+            "nombre": "Alemania",
+            "capital": "Berlin",
+            "textoCapital": "Los elementos que recuerdan la turbulenta historia de la ciudad en el siglo XX incluyen el Monumento del Holocausto",
+            "ciudades": [
+                "Berlin, Hamburgo, Munich, Colonia, Bremen, Bonn, Núremnberg, Dresde"
+            ]
+        },
+        {
+            "nombre": "Japon",
+            "capital": "Tokio",
+            "textoCapital": "Capital imperial en un país esencialmente rural y centro de la cultura japonesa por miles de años",
+            "ciudades": [
+                "Kioto, Osaka, Hirosima, Nara, Sendai, Okayama, Saitama, Nagasaki, Nagano, Chiba, Aomori"
+               
+            ]
+        },
+
+        {
+            "nombre": "México",
+            "capital": "México D.F.",
+            "textoCapital": "La Ciudad de México, Distrito Federal o, en su formaabreviada, México, D.F., es… ",
+            "ciudades": [
+                "México D.F, Ecatepec, Guadalajara, Puebla, Tijuana, León, Juárez, Zapopan"   
+            ]
+        }]
+    }
+}
